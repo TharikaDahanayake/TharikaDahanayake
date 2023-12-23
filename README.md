@@ -18,7 +18,7 @@
 <div>
 ### :woman_technologist: About Me : I am a first year IT undergraduate student at KDU Sri Lanka. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :seedling: I an interested in developing software projects and researches.
+- :seedling: I am interested in developing software projects and researches.
 
 - :zap:  Eager to know about new trends of the field of ICT.
 
